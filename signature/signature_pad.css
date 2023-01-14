@@ -112,7 +112,7 @@ body {
 }
 
 .signature-pad--actions .button {
-  margin: 1.5em;
+  margin: .1em;
   background-color: rgb(142, 218, 246);
   border-radius: 4px;
   border: 2px solid #494848;
